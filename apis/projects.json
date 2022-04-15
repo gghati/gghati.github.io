@@ -1,19 +1,30 @@
 [
     {
+        "heading": "Decentralized Voting",
+        "tech": "Web 3, Solidity, ReactJS, NodeJS",
+        "date": "Nov 2021 to Jan 2022",
+        "ghlink": "https://dvoting.github.io/",
+        "description": [
+            "• Created a decentralized Voting App which addresses the issue of current voting system, by using public blockchain network.",
+            "• It provides better security, accuracy, privacy and affordablility than the existing voting system.",
+            "• Technologies used : Web 3, Solidity, ReactJS, NodeJS"
+        ]
+    },
+    {
         "heading": "Technology Assisted Review",
         "tech": "Deep Learning (Classification and NLP algorithms)",
         "date": "Aug 2021 to May 2022",
         "ghlink": "",
         "description": [
-            "• Final Year project sponsored and Guided by Veritas.",
-            "• Manual reviews of millions of documents are extremely costly, time-consuming, error-prone, full of biases.",
-            "• Implementing supervised rule-based machine learning algorithms, and let system predict matching documents from millions of documents."
+            "• Worked on Technology Assisted Review ( TAR ) project that help reviewers to manually train a model that will be used to review the legal documents.",
+            "• Implemented Continuous Active Learning i.e. training to the model on the go when reviewers provides manual input to it.",
+            "• Worked on technologies: NLP, ReactJS and Django REST."
         ]
     },
     {
         "heading": "Hospital Management System",
         "tech": "Software Development (Java Swing and MySQL)",
-        "date": "Nov 2020 to Jan 2021",
+        "date": "Dec 2020 to Jan 2021",
         "ghlink": "https://github.com/gauravghati/Hospital-Management-System",
         "description": [
             "• A desktop application with MySQL Database for Hospital management.",
@@ -23,7 +34,7 @@
     {
         "heading": "Credenz Website Backend",
         "tech": "Web development (Node JS, React JS and MongoDB)",
-        "date": "Sep 2020 to Nov 2020",
+        "date": "Oct 2020 to Feb 2021",
         "ghlink": "https://github.com/credenz/credenz-website-backend",
         "description": [
             "• Created and deployed backend REST APIs for Technical fest’s website, It was used by more than 1200+ users",
