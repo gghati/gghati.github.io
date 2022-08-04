@@ -1,12 +1,5 @@
 {
     "prs": [
-    	{
-            "link": "https://github.com/mlpack/mlpack/pull/2769",
-            "repo": "MLpack",
-            "field": "Machine Learning", 
-            "title": "Adding Constructors for Convolution and Adaptive mean pooling",
-            "date": "Dec 2020"    	
-    	},
         {
             "link": "https://github.com/mlpack/mlpack/pull/2759",
             "repo": "MLpack",
