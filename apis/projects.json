@@ -1,24 +1,13 @@
 [
     {
-        "heading": "Decentralized Voting",
-        "tech": "Web 3, Solidity, ReactJS, NodeJS",
-        "date": "Nov 2021 to Jan 2022",
-        "ghlink": "https://dvoting.github.io/",
-        "description": [
-            "• Created a decentralized Voting App which addresses the issue of current voting system, by using public blockchain network.",
-            "• It provides better security, accuracy, privacy and affordablility than the existing voting system.",
-            "• Technologies used : Web 3, Solidity, ReactJS, NodeJS"
-        ]
-    },
-    {
         "heading": "Technology Assisted Review",
-        "tech": "Deep Learning (Natural Languague processing) And Website in (Dango, ReactJS)",
+        "tech": "Deep Learning (Natural Languague Processing) And Website in (Django, ReactJS)",
         "date": "Aug 2021 to May 2022",
         "ghlink": "https://github.com/gauravghati/veridical/tree/main/PICT-2022-TAR-2.0",
         "description": [
-            "• Worked on Technology Assisted Review ( TAR ) project that help reviewers to manually train a model that will be used to review the legal documents.",
-            "• Implemented Continuous Active Learning i.e. training to the model on the go when reviewers provides manual input to it.",
-            "• Worked on technologies: NLP, ReactJS and Django REST."
+            "• This project is an application for documents reviewing.",
+            "• Help reviewers to get the most uncertain document to review then it’s used for training a deep learning model.",
+            "• Worked on technologies NLP, Django (Python) and ReactJS."
         ]
     },
     {
@@ -27,13 +16,13 @@
         "date": "Dec 2020 to Jan 2021",
         "ghlink": "https://github.com/gauravghati/Hospital-Management-System",
         "description": [
-            "• A desktop application with MySQL Database for Hospital management.",
-            "• Includes many features such as managing doctors, staff members and covid patients, creating appointments, sending reports on video calling, etc."
+            "• A desktop application for Hospital management.",
+            "• Includes features like managing doctors, staff members and covid patients, creating appointments, sending reports on video calling etc."
         ]
     },
     {
         "heading": "Credenz Website Backend",
-        "tech": "Web development (Node JS, React JS and MongoDB)",
+        "tech": "Web development (NodeJS, ReactJS and MongoDB)",
         "date": "Oct 2020 to Feb 2021",
         "ghlink": "https://github.com/credenz/credenz-website-backend",
         "description": [
@@ -66,7 +55,7 @@
         "date": "Jul 2019 to Sep 2019",
         "ghlink": "https://github.com/clash-rc-round-2/Clash-Round-2",
         "description" : [
-            "• Clash RC is an online Judge platform used by more than 300+ participants in a technical fest (Credenz '19).",
+            "• Clash RC is an online Judge platform used by more than 300+ participants in a technical fest (Credenz).",
             "• Contestants can run, test and submit code in C, CPP or Python for various coding questions."
         ]
     }
