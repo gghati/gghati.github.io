@@ -21,10 +21,6 @@
             "link": "http://linkedin.com/in/gauravghati/"
         },
         {
-            "name": "Github Stats",
-            "link": "https://www.gitmemory.com/gauravghati"
-        },
-        {
             "name": "Codechef",
             "link": "https://www.codechef.com/users/gauravghati"
         }, 
@@ -43,17 +39,5 @@
     ],
  
     "informal": [
-        {
-            "name": "Good Reads", 
-            "link": "https://www.goodreads.com/gauravghati"
-        },
-        {
-            "name": "Twitter", 
-            "link": "https://twitter.com/imGhati"
-        },
-        {
-            "name": "Share your thoughts", 
-            "link": "https://forms.gle/UVHwjWJZ2X4UMf7B8"
-        }
     ]
 }
