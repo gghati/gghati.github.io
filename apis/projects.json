@@ -1,13 +1,14 @@
 [
     {
         "heading": "Technology Assisted Review",
-        "tech": "Deep Learning (Natural Languague Processing) And Website in (Django, ReactJS)",
+        "tech": "Deep Learning (Natural Language Processing) And Website in (Django, ReactJS)",
         "date": "Aug 2021 to May 2022",
         "ghlink": "https://github.com/gauravghati/veridical/tree/main/PICT-2022-TAR-2.0",
         "description": [
-            "• This project is an application for documents reviewing.",
-            "• Help reviewers to get the most uncertain document to review then it’s used for training a deep learning model.",
-            "• Worked on technologies NLP, Django (Python) and ReactJS."
+            "• ",
+            "• ",
+            "• ",
+            "• "
         ]
     },
     {
@@ -46,7 +47,7 @@
         "ghlink": "https://github.com/CTD-NCC/NCC20",
         "description": [
             "• National Computing Contest (NCC) platform is used by more than 500+ participants in Credenz Tech Days. We created an Online Judge of C, CPP and Python for the contestants to submit the code.",
-            "• Implemented sandboxing env to run c, cpp and python codes in the backend"
+            "• Implemented sandboxing env to run c, cpp, and python codes in the backend."
         ]
     },
     {
@@ -56,7 +57,7 @@
         "ghlink": "https://github.com/clash-rc-round-2/Clash-Round-2",
         "description" : [
             "• Clash RC is an online Judge platform used by more than 300+ participants in a technical fest (Credenz).",
-            "• Contestants can run, test and submit code in C, CPP or Python for various coding questions."
+            "• Contestants can run, test, and submit code in C, CPP or Python for various coding questions."
         ]
     }
 ]
