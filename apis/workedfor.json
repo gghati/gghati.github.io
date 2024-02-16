@@ -1,18 +1,17 @@
 {   
     "jobs": [
         {
-            "date": "Aug 2021 to present",
-            "company": "Veritas Technologies",
-            "post": "Project Associate",
+            "date": "Jul 2022 to Aug 2023",
+            "company": "Back of New York Mellon",
+            "post": "Software Engineer",
             "location": "Pune, India",
             "description": [
-                "• Project sponsored and Guided by Veritas.",
-                "• Predictive coding and technology-assisted review (TAR). Manual reviews of millions of documents are extremely costly, time-consuming, error-prone, full of biases/prejudices.",
-                "• Proposed solution: Implement supervised rule-based machine learning algorithms to “train” the system so that it can “predict” potential matches. Let manual reviewers, review only a handful of documents (say 100), train the system based on that samples, and let the system predict matching documents from millions of documents.",
-                "• Worked on technologies: Python, classification algorithms, NLP."
+                "• Worked on the backend of an electronic signature application using Java SpringBoot. This application is utilized by over 60,000 individuals, including company employees and clients to facilitate digital document signing",
+                "• Leveraged Apache Kafka to manage incoming continuous data streams, consumed by multiple microservices. Used Oracle MySQL to store user and document data and Amazon S3 for efficient document storage and retrieval.",
+                "• Adapted scrum/agile practices to enhance CI/CD, increase code coverage of Java projects by 60% using JUnit and Mockito, and resolved over 100 production bugs and vulnerability issues as part of production maintenance."                
             ]
         }
-    ], 
+    ],
 
     "internships" : [
         {
