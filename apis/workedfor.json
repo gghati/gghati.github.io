@@ -1,9 +1,5 @@
 {   
-    "job": [
-
-    ], 
-
-    "internships" : [
+    "jobs": [
         {
             "date": "Aug 2021 to present",
             "company": "Veritas Technologies",
@@ -15,20 +11,33 @@
                 "• Proposed solution: Implement supervised rule-based machine learning algorithms to “train” the system so that it can “predict” potential matches. Let manual reviewers, review only a handful of documents (say 100), train the system based on that samples, and let the system predict matching documents from millions of documents.",
                 "• Worked on technologies: Python, classification algorithms, NLP."
             ]
-        },
+        }
+    ], 
+
+    "internships" : [
         {
-            "date": "Jan 2021 to Mar 2021",
-            "company": "Acumensa Tech",
-            "post": "Software Developer Intern",
-            "location": "Bangalore, India",
+            "date": "Aug 2021 to May 2022",
+            "company": "Veritas Technologies LLC",
+            "post": "Research Project Intern",
+            "location": "Pune, India",
             "description": [
-                "• Completed and deployed a Supply Chain Management project.",
-                "• This project manages multiple tasks for farmers, suppliers, sellers and buyers. It solves existing problem of backtracking if any error is found in the product. My role was to implement permission and approval system of the software.",
-                "• Worked on technologies: Django REST and MySQL."
+                "• Devised an NLP text classification model based on LSTM and Google’s LLM - BERT for auto-matching relevant documents. Used rehearsal techniques for effective training, preventing memory loss issues while training model.",
+                "• Improved incremental learning accuracy by 45% by writing a ranking algorithm prioritizing uncertain documents.",
+                "• Developed this web application using Django REST APIs in Python and React.js, the backend was dockerized and deployed to AWS EC2 servers ensuring scalable and efficient access to the application."
             ]
         },
         {
-            "date": "May 2019 to June 2019",
+            "date": "Jan 2021 to Mar 2021",
+            "company": "Acumensa Technologies Pvt. Ltd.",
+            "post": "Software Developer Intern",
+            "location": "Bangalore, India",
+            "description": [
+                "• Built a Supply Chain Management software, using Django REST APIs and ReactJS.",
+                "• This project provides multiple features for producers, consumers, suppliers, and sellers. And, also solves the existing problem of backtracking if any error is found in goods, Implemented the permission and approval frameworks."
+            ]
+        },
+        {
+            "date": "May 2019 to July 2019",
             "company": "Indian Institute of Management, Ahmedabad",
             "post": "Summer Project Intern",
             "location": "Ahmedabad, India",
@@ -37,18 +46,6 @@
                 "• Worked on technologies: Python and JavaScript."
             ]
         }    
-    ],
-
-    "freelancing": [
-        {
-            "company": "Somani Fashion",
-            "position": "Web Developer",
-            "date": "May 2021",
-            "description": [
-                "• Created a Static Website for Somani fashion (Clothing related company)",
-                "• Helped them, deploying the website."
-            ]
-        }
     ],
 
     "volunteer": [
@@ -61,7 +58,7 @@
                 "• • • My Role as Technical Head:",
                 "• Organised Tech Fest (Credenz '19) in the college",
                 "• Took SIGs and technical talks for students.",
-                "• Help to increase technical activities in student branch."
+                "• Help to increase technical activities in the student branch."
             ]
         },
         {
@@ -76,7 +73,7 @@
             ]
         },
         {
-            "company" : "Mozilla",
+            "company": "Mozilla and MLpack",
             "position": "Open Source Developer",
             "date": "Oct 2020 - Dec 2020",
             "description": [
