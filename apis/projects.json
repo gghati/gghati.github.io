@@ -1,14 +1,46 @@
 [
     {
+        "heading": "Cuckoo Hashing",
+        "tech": "Data Structures, python",
+        "date": "Jan 2024 to Feb 2024",
+        "ghlink": "https://github.com/gauravghati/cuckoo-hashing",
+        "description": [
+            "• Implemented Cuckoo Hashing algorithm, enhancing key-value pair storage with efficient collision handling.",
+            "• Designed and optimized Cuckoo Hashing scheme for high-performance data retrieval.",
+            "• Conducted comprehensive testing to validate efficiency and scalability, showcasing strong algorithmic proficiency."
+        ]
+    },
+    {
+        "heading": "Storage Class Memory Manager",
+        "tech": "Kernel Programming, low-level Programming using C, Unix/Linux",
+        "date": "Nov 2023 to Dec 2023",
+        "ghlink": "http://tinyurl.com/ghatiOSproject3",
+        "description": [
+            "• Created a robust memory management system featuring an API reminiscent of the C malloc() and free() functions.",
+            "• This is done by mapping process virtual memory to file memory for persistence",
+            "• Developed chunking logic for memory allocation and deallocation, which utilizes freed-up memory on demand."
+        ]
+    },
+    {
+        "heading": "Dynamic Thread Scheduler",
+        "tech": "Operating Systems, Unix/Linux",
+        "date": "Oct 2023 to Nov 2023",
+        "ghlink": "http://tinyurl.com/ghatiOSproject2",
+        "description": [
+            "• Implemented thread scheduling in C, including thread structure creation and dynamic stack memory allocation.",
+            "• Created Round Robin thread scheduling using a Circular Linked List and achieved concurrent non-parallel execution by context switching between threads with setjmp() and longjmp() kernel system calls"
+        ]
+    },
+    {
         "heading": "Technology Assisted Review",
         "tech": "Deep Learning (Natural Language Processing) And Website in (Django, ReactJS)",
         "date": "Aug 2021 to May 2022",
         "ghlink": "https://github.com/gauravghati/veridical/tree/main/PICT-2022-TAR-2.0",
         "description": [
-            "• ",
-            "• ",
-            "• ",
-            "• "
+            "• Sponsored and guided by Veritas Technologies LLC.",
+            "• Devised an NLP text classification model based on LSTM and Google’s LLM - BERT for auto-matching relevant documents. Used rehearsal techniques for effective training, preventing memory loss issues while training model.",
+            "• Improved incremental learning accuracy by 45% by writing a ranking algorithm prioritizing uncertain documents.",
+            "• Developed this web application using Django REST APIs in Python and React.js, the backend was dockerized and deployed to AWS EC2 servers ensuring scalable and efficient access to the application."
         ]
     },
     {
@@ -17,23 +49,23 @@
         "date": "Dec 2020 to Jan 2021",
         "ghlink": "https://github.com/gauravghati/Hospital-Management-System",
         "description": [
-            "• A desktop application for Hospital management.",
+            "• A desktop application for Hospital management using Java Swing and MySQL database.",
             "• Includes features like managing doctors, staff members and covid patients, creating appointments, sending reports on video calling etc."
         ]
     },
     {
         "heading": "Credenz Website Backend",
-        "tech": "Web development (NodeJS, ReactJS and MongoDB)",
+        "tech": "Web development (NodeJS, Express.js and MongoDB)",
         "date": "Oct 2020 to Feb 2021",
         "ghlink": "https://github.com/credenz/credenz-website-backend",
         "description": [
-            "• Created and deployed backend REST APIs for Technical fest’s website, It was used by more than 1200+ users",
-            "• Includes many features such as payment gateways, registration for users and events and many more."
+            "•  Designed backend APIs using Node.js / Express.js for Credenz’s website (technical fest), These APIs were used by 8 other event apps to get live updates of the technical fest. In total, it was used by over 1800 participants.",
+            "• Include features like user registration, booking tickets for technical events, payment gateway, etc. Implemented middleware authentication, OAuth2, JWT, and MongoDB Cloud for streamlined and secure data handling."
         ]
     },
     {
         "heading": "Question Portal",
-        "tech": "Web development (Node JS, React JS and MongoDB)",
+        "tech": "Web development (Node JS, Express.js and MongoDB)",
         "date": "Jun 2020 to Jul 2020",
         "ghlink": "https://github.com/gauravghati/Question-Portal",
         "description" : [
@@ -57,7 +89,7 @@
         "ghlink": "https://github.com/clash-rc-round-2/Clash-Round-2",
         "description" : [
             "• Clash RC is an online Judge platform used by more than 300+ participants in a technical fest (Credenz).",
-            "• Contestants can run, test, and submit code in C, CPP or Python for various coding questions."
+            "• Contestants can run, test, and submit code in C, CPP, or Python for various coding questions."
         ]
     }
 ]
