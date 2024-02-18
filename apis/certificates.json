@@ -1,51 +1,83 @@
 [
+	
 	{
-		"date": "Apr 2020",
+		"date": "May 2023",
+		"name": "Certified SAFe® 5 Practitioner",
+		"link": "https://www.credly.com/badges/ef977b88-af58-4cc2-99a1-0cb46202ead8/",
+		"from": "Scaled Agile Inc",
+		"grade": "-",
+		"description": "Demonstrated proficiency in applying the Scaled Agile Framework (SAFe) principles and practices. Skilled in facilitating Agile Release Trains (ARTs), coordinating multiple teams, and implementing Lean-Agile practices at scale. Applied knowledge to drive organizational agility and deliver value to customers efficiently."
+	},
+	{
+		"date": "April 2020",
 		"name": "Sequences, Time Series and Prediction",
-		"link": "https://coursera.org/share/9b903425b7a2f22d4562bfd24e1b44fe",
+		"link": "https://coursera.org/share/2927bcf4ff8e27efa36160d0dd36f48a",
 		"from": "Coursera",
-		"description": "Learned to implement and predict time series and Sequences"
+		"grade": "90.97%",
+		"description": "1) Solve time series and forecasting problems in TensorFlow 2) Prepared data for time series learning using best practices 3) Explored how RNNs and ConvNets can be used for predictions 4) Build a sunspot prediction model using real-world data"
 	},
 	{
-		"date": "Apr 2020",
+		"date": "January 2020",
+		"name": "Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization",
+		"link": "https://coursera.org/share/7cfbab148ff68c1d20d695964fb115fc",
+		"from": "Coursera",
+		"grade": "95.20%",
+		"description": "Gained expertise in optimizing deep learning models through hyperparameter tuning, regularization, and advanced optimization algorithms. Applied practical implementations using Python and TensorFlow, demonstrating proficiency in enhancing model performance and mitigating overfitting."
+	},
+	{
+		"date": "March 2020",
+		"name": "Sequence Models",
+		"link": "https://coursera.org/share/d0d686e1004f02d3e88ec8ff8c9a8fbe",
+		"from": "Coursera",
+		"grade": "94.50%",
+		"description": "Mastered RNNs, LSTMs, and sequence processing for NLP and speech recognition. Proficient in implementing with Python and TensorFlow."
+	},
+	{
+		"date": "April 2020",
 		"name": "Natural Language Processing in TensorFlow",
-		"link": "https://www.coursera.org/account/accomplishments/certificate/X5Y8WV98RHPN",
+		"link": "https://coursera.org/share/d3a90382f4e3c23af4d213cf6b3374bc",
 		"from": "Coursera",
-		"description": "Learned to implement NLP in Tensorflow"
+		"grade":"90.62%",
+		"description": "Gained expertise in NLP techniques using TensorFlow. Proficient in building and optimizing neural networks for tasks like sentiment analysis, text generation, and machine translation. Applied practical implementations in Python, demonstrating proficiency in NLP with TensorFlow."
 	},
 	{
-		"date": "Mar 2020",
-		"name": "Deep Learning Specialization by Andrew NG",
-		"link": "https://www.coursera.org/account/accomplishments/certificate/XUC63UVKL873",
+		"date": "January 2020",
+		"name": "Neural Networks and Deep Learning",
+		"link": "https://coursera.org/share/c665d5996818ea26b6c7c80196356d70",
 		"from": "Coursera",
-		"description": "Learned Fundamentals of RNNs, LSTMs, and NLP"
+		"grade":"97.10%",
+		"description": "Mastered foundational concepts in neural networks and deep learning. Proficient in building and training neural networks using Python and TensorFlow. Applied knowledge to solve various real-world problems, demonstrating proficiency in deep learning fundamentals."
 	},
 	{
-		"date": "July 2019",
-		"name": "Internship Completion Certificate",
-		"link": "https://gauravghati.github.io/certificates/InternshipCompletion.pdf",
-		"from": "Indian Institute of Management, Ahmedabad",
-		"description": "Done full time paid internship at IIMA"
+		"date": "March 2020",
+		"name": "Structuring Machine Learning Projects",
+		"link": "https://coursera.org/share/9ca8a11d5ea126e6e2bfafe554b64bcb",
+		"from": "Coursera",
+		"grade":"86.66%%",
+		"description": "Gained expertise in designing and organizing machine learning projects for optimal performance. Proficient in strategies for data splitting, error analysis, and model evaluation. Applied practical implementations to tackle complex machine learning challenges, demonstrating proficiency in structuring ML projects effectively."
 	},
 	{
-		"date": "Dec 2018",
-		"name": "Java: Masterclass for Software Development",
-		"link": "https://gauravghati.github.io/certificates/java-certificate.pdf",
-		"from": "Udemy",
-		"description": "Completed a online Java Course for software Development"
+		"date": "October 2020",
+		"name": "Java Programming: Arrays, Lists, and Structured Data",
+		"link": "https://coursera.org/share/53fb3e6b5631acf141f3d59ee0999fdf",
+		"from": "Coursera",
+		"grade": "87.72%",
+		"description": "Mastered fundamental concepts in Java programming including arrays, lists, and structured data. Proficient in implementing algorithms and data structures in Java, enabling efficient manipulation and organization of data. Applied practical exercises to reinforce understanding and develop strong programming skills."
 	},
 	{
 		"date": "Jul 2017",
 		"name": "Data Structures with C++",
 		"link": "https://gauravghati.github.io/certificates/CPP_Certificate.pdf",
-		"from": "Disha Institute",
-		"description": "Completed a 3 Months Course and mastered all data structure concept with C++"
+		"from": "Disha Institute, India",
+		"grade": "70%",
+		"description": "Attained comprehensive knowledge of data structures and OOP principles in C++. Proficient in implementing advanced data structures such as linked lists, trees, and graphs, and applying OOP concepts like inheritance, polymorphism, and encapsulation. Successfully completed practical assignments to reinforce understanding and develop robust programming skills."
 	},
 	{
 		"date": "May 2017",
 		"name": "C Programming",
-		"link": "https://gauravghati.github.io/certificates/C_cerificate.pdf",
-		"from": "Disha Institute",
-		"description": "Completed and secure 70% with specialisation in C"
+		"link": "https://gauravghati.github.io/certificates/C_Cerificate.pdf",
+		"from": "Disha Institute, India",
+		"grade": "70%",
+		"description": "Matered the foundational concepts of C programming including variables, loops, functions, and pointers. Proficient in writing procedural code and solving problems using C language constructs. Successfully completed practical exercises to solidify understanding and develop essential programming skills in C."
 	}
 ]
