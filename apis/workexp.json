@@ -32,7 +32,7 @@
             "location": "Bangalore, India",
             "description": [
                 "• Built a Supply Chain Management software, using Django REST APIs and ReactJS.",
-                "• This project provides multiple features for producers, consumers, suppliers, and sellers. And, also solves the existing problem of backtracking if any error is found in goods, Implemented the permission and approval frameworks."
+                "• This project provides multiple features for producers, consumers, suppliers, and sellers. And, also solves the existing problem of backtracking if any error is found in goods, Implemented the permission and approval frameworks using the workflow model."
             ]
         },
         {
@@ -41,8 +41,7 @@
             "post": "Summer Project Intern",
             "location": "Ahmedabad, India",
             "description": [
-                "• Worked on a project that automates the manual process of downloading data from various public APIs and represented that data in a statistical and structured way on a website.",
-                "• Worked on technologies: Python and JavaScript."
+                "Contributed to a finance education website using HTML, CSS, and Javascript. Conducted data visualization using Python’s pandas, matplotlib, and seaborn libraries on information sourced from public APIs."
             ]
         }    
     ],
@@ -53,11 +52,9 @@
             "position": "Technical Head",
             "date": "Sep 2018 - Aug 2021",
             "description": [
-                "Technical Head at PICT IEEE Student Branch(PISB) contains more than 300+ active student members in it",
-                "• • • My Role as Technical Head:",
-                "• Organised Tech Fest (Credenz '19) in the college",
-                "• Took SIGs and technical talks for students.",
-                "• Help to increase technical activities in the student branch."
+                "• Led a team of 300+ active student members, fostering technical engagement and collaboration.",
+                "• Organized Credenz '19, a successful college Tech Fest, showcasing innovative projects and workshops.",
+                "• Conducted Special Interest Groups (SIGs) and technical talks to enhance student knowledge and skills."
             ]
         },
         {
@@ -66,9 +63,9 @@
             "date": "Oct'19 - Mar'20",
             "description": [
                 "My Role as Volunteer:",
-                "• Taking lectures on subjects Maths, Science and Geography.",
-                "• Question paper setting for them.",
-                "• evaluation of answer papers."
+                "• Facilitated interactive and engaging lectures on subjects including Mathematics, Science, and Geography to a diverse group of students.",
+                "• Created and administered question papers to assess students' understanding and proficiency in the respective subjects.",
+                "• Conducted thorough evaluation of answer papers, providing constructive feedback to students to facilitate their academic growth and development."
             ]
         },
         {
@@ -76,7 +73,7 @@
             "position": "Open Source Developer",
             "date": "Oct 2020 - Dec 2020",
             "description": [
-                "Solved issues(website bugs) and created more that ten pull request to solve them, on mozilla support website."
+                "Solved issues(website bugs) and created more than ten pull requests to solve them, on the Mozilla support website."
             ]
         }
     ]
