@@ -1,0 +1,59 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AWU5eFhpasQpTetMhG9682NfMuS-eklPJKFaB0v8Tfj7Q7IuzcrqDRxZJfz0phmKeZSC3D4BMFcm-HW_GTniXoj6f4zuQGO2fd8BnzVzNYooak_Tm3Hn1WBROdr-xO8gPlEvsujkZZwk0q67qxOpGDTqwtFiRqi4NZ5l2UIa2wDY6Kjdk4-2YBPDOHQ_LIrFBjDr_LUEaPdGzyj2vRROSrAq9jSlGDRwx_pQxgmze8EfH7O-wmKtURLM5xvIbh-yFoA-t_euSCeQV0EAVSzQzZqDwfqI8u6DIzG43SaYknVZ7EZK71EQFYGrSVSZdvAGAb5LtZ9bo8RfiPKM_xmicNsPL1HwxertukSthpgY_y73FRJUdCjExfApens2LKA4jNZkWNslJABuZZVHbYsCnx8wOe6ytIrUOug29Pk",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "4255 Campus Dr A120, Irvine, CA 92612, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.6497147,
+                    "lng": -117.839056
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.65086337989272,
+                        "lng": -117.8379758701073
+                    },
+                    "southwest": {
+                        "lat": 33.64816372010728,
+                        "lng": -117.8406755298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Blaze Pizza",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1840,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100990227375598994620\">Gail Antolin</a>"
+                    ],
+                    "photo_reference": "AWU5eFi1q2i5UYpcsCCQ8YGZ0AVRpeBUCVKANC218bPk5zgJHOVvc2lG2dY3j9ZK-qxpW_ofCeR60_tQxZYx16PVRN9jDLd40zcTxt0aKPCfgX488hYkCnR_QJE5420ACAQ3bRI0cbAWcxRNI_Zlj5N5dKZ3N2yXyna-vZacyA3-0DSRyRQx",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJdTaxcwze3IARxzJAQZE9SeM",
+            "plus_code": {
+                "compound_code": "J5X6+V9 Irvine, California",
+                "global_code": "8554J5X6+V9"
+            },
+            "price_level": 1,
+            "rating": 4.2,
+            "reference": "ChIJdTaxcwze3IARxzJAQZE9SeM",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 582
+        }
+    ],
+    "status": "OK"
+}
