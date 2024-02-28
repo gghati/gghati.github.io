@@ -1,8 +1,7 @@
 {
     "html_attributions": [],
     "next_page_token": "AWU5eFhpasQpTetMhG9682NfMuS-eklPJKFaB0v8Tfj7Q7IuzcrqDRxZJfz0phmKeZSC3D4BMFcm-HW_GTniXoj6f4zuQGO2fd8BnzVzNYooak_Tm3Hn1WBROdr-xO8gPlEvsujkZZwk0q67qxOpGDTqwtFiRqi4NZ5l2UIa2wDY6Kjdk4-2YBPDOHQ_LIrFBjDr_LUEaPdGzyj2vRROSrAq9jSlGDRwx_pQxgmze8EfH7O-wmKtURLM5xvIbh-yFoA-t_euSCeQV0EAVSzQzZqDwfqI8u6DIzG43SaYknVZ7EZK71EQFYGrSVSZdvAGAb5LtZ9bo8RfiPKM_xmicNsPL1HwxertukSthpgY_y73FRJUdCjExfApens2LKA4jNZkWNslJABuZZVHbYsCnx8wOe6ytIrUOug29Pk",
-    "results": [
-        {
+    "results": {
             "geometry": {
                 "location": {
                     "lat": 33.6497147,
@@ -38,7 +37,6 @@
                 "point_of_interest",
                 "establishment"
             ]
-        }
-    ],
+        },
     "status": "OK"
 }
