@@ -6,7 +6,9 @@
             "post": "Software Engineer",
             "location": "Pune, India",
             "description": [
-                "•"                
+                "• Worked on backend REST APIs of an electronic signature app using Java SpringBoot, serving 60,000+ users, including company employees and clients to facilitate digital signatures.",
+                "• Leveraged Apache Kafka to manage continuous data streams, Amazon S3 for document storage, and Oracle MySQL for user data storage.",
+                "• Implemented scrum/agile methodologies to enhance CI/CD, boosting Java code coverage by 60% using JUnit and Mockito and addressing 100+ production bugs."
             ]
         }
     ],
