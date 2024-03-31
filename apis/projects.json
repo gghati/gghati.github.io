@@ -1,5 +1,15 @@
 [
     {
+        "heading": "Fibonacci Heap",
+        "tech": "Data Structures, python",
+        "date": "Feb 2024 to Mar 2024",
+        "ghlink": "https://github.com/gauravghati/Fibonacci-Heap",
+        "description": [
+            "• Developed a Python implementation of Fibonacci Heap, optimizing memory usage and enhancing efficiency.",
+            "• Employed object-oriented programming principles for a clear and maintainable codebase, and conducted comprehensive testing to ensure reliability."
+        ]
+    },
+    {
         "heading": "Cuckoo Hashing",
         "tech": "Data Structures, python",
         "date": "Jan 2024 to Feb 2024",
@@ -19,6 +29,16 @@
             "• Created a robust memory management system featuring an API reminiscent of the C malloc() and free() functions.",
             "• This is done by mapping process virtual memory to file memory for persistence",
             "• Developed chunking logic for memory allocation and deallocation, which utilizes freed-up memory on demand."
+        ]
+    },
+    {
+        "heading": "System Performance Monitor",
+        "tech": "Operating Systems, Unix/Linux",
+        "date": "Nov 2023 to Dec 2023",
+        "ghlink": "http://tinyurl.com/ghatiOSproject5",
+        "description": [
+            "• Developed a real-time system monitoring tool similar to Unix top command in C, utilizing Linux proc files to extract CPU, memory, network, and I/O statistics, displayed through a terminal UI.",
+            "• Implemented two distinct categories of performance statistics in C, enhancing system visibility and facilitating efficient resource management."
         ]
     },
     {
