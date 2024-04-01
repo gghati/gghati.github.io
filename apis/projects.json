@@ -1,5 +1,16 @@
 [
     {
+        "heading": "Search Functionality - StackOverflow",
+        "tech": "C#, ASP.net",
+        "date": "Mar 2024 to Mar 2024",
+        "ghlink": "https://github.com/gauravghati/Search-functionality-StackOverflow",
+        "description": [
+            "• Implemented the search functionality of StackOverflow in an ASP.NET MVC web application using C#, enhancing user experience and efficiency.",
+            "• Developed the frontend using HTML, Bootstrap, and JavaScript to create a visually appealing and responsive interface.",
+            "• Implemented AJAX for seamless updating of items without reloading the page, improving overall performance and interactivity."
+        ]
+    },
+    {
         "heading": "Fibonacci Heap",
         "tech": "Data Structures, python",
         "date": "Feb 2024 to Mar 2024",
