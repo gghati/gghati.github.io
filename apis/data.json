@@ -1,7 +1,9 @@
 [
     {
-        "lat": 33.6497147,
-        "lng": -117.839056,
+        "latitude": 33.6497147,
+        "longitude": -117.839056,
+        "latitudeDelta": 1,
+        "longitudeDelta": 1,
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
         "name": "Blaze Pizza",
         "photos": {
@@ -14,8 +16,10 @@
         }
     },
     {
-        "lat": 33.65091,
-        "lng": -117.838332,
+        "latitude": 33.65091,
+        "longitude": -117.838332,
+        "latitudeDelta": 1,
+        "longitudeDelta": 1,
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
         "name": "Ray's Pizza",
         "photos": {
@@ -28,8 +32,10 @@
         }
     },
     {
-        "lat": 33.6498385,
-        "lng": -117.8320505,
+        "latitude": 33.6498385,
+        "longitude": -117.8320505,
+        "latitudeDelta": 1,
+        "longitudeDelta": 1,
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
         "name": "Sgt. Pepperoni's Pizza",
         "photos": {
@@ -42,8 +48,10 @@
         }
     },
     {
-        "lat": 33.663887,
-        "lng": -117.825841,
+        "latitude": 33.663887,
+        "longitude": -117.825841,
+        "latitudeDelta": 1,
+        "longitudeDelta": 1,
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
         "name": "Ameci Pizza & Pasta",
         "photos":{
@@ -56,8 +64,10 @@
         }
     },
     {
-        "lat": 33.670339,
-        "lng": -117.788647,
+        "latitude": 33.670339,
+        "longitude": -117.788647,
+        "latitudeDelta": 1,
+        "longitudeDelta": 1,
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
         "name": "California Pizza Kitchen at Alton Square",
         "photos":{
@@ -70,8 +80,10 @@
         }
     },
     {
-        "lat": 33.6699224,
-        "lng": -117.7863935,
+        "latitude": 33.6699224,
+        "longitude": -117.7863935,
+        "latitudeDelta": 1,
+        "longitudeDelta": 1,
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
         "name": "Brooklyn's Finest Pizza",
         "photos": {
@@ -84,8 +96,10 @@
             }
     },
     {
-        "lat": 33.655366,
-        "lng": -117.777835,
+        "latitude": 33.655366,
+        "longitude": -117.777835,
+        "latitudeDelta": 1,
+        "longitudeDelta": 1,
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
         "name": "Johnny's Real New York Pizza",
         "photos": {
@@ -98,8 +112,10 @@
         }
     },
     {
-        "lat": 33.6717613,
-        "lng": -117.8450172,
+        "latitude": 33.6717613,
+        "longitude": -117.8450172,
+        "latitudeDelta": 1,
+        "longitudeDelta": 1,
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
         "name": "North Italia",
         "photos":{
@@ -112,8 +128,10 @@
         }
     },
     {
-        "lat": 33.6823597,
-        "lng": -117.8133322,
+        "latitude": 33.6823597,
+        "longitude": -117.8133322,
+        "latitudeDelta": 1,
+        "longitudeDelta": 1,
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
         "name": "MOD Pizza",
         "photos": {
@@ -126,8 +144,10 @@
         }
     },
     {
-        "lat": 33.6761027,
-        "lng": -117.8327202,
+        "latitude": 33.6761027,
+        "longitude": -117.8327202,
+        "latitudeDelta": 1,
+        "longitudeDelta": 1,
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
         "name": "Fresh Brothers Pizza Irvine Harvard Place",
         "photos": {
