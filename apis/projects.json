@@ -3,7 +3,7 @@
         "heading": "Search Functionality - StackOverflow",
         "tech": "C#, ASP.net",
         "date": "Mar 2024 to Mar 2024",
-        "ghlink": "https://github.com/gauravghati/Search-functionality-StackOverflow",
+        "ghlink": "https://github.com/gghati/Search-functionality-StackOverflow",
         "description": [
             "• Implemented the search functionality of StackOverflow in an ASP.NET MVC web application using C#, enhancing user experience and efficiency.",
             "• Developed the frontend using HTML, Bootstrap, and JavaScript to create a visually appealing and responsive interface.",
@@ -14,7 +14,7 @@
         "heading": "Fibonacci Heap",
         "tech": "Data Structures, python",
         "date": "Feb 2024 to Mar 2024",
-        "ghlink": "https://github.com/gauravghati/Fibonacci-Heap",
+        "ghlink": "https://github.com/gghati/Fibonacci-Heap",
         "description": [
             "• Developed a Python implementation of Fibonacci Heap, optimizing memory usage and enhancing efficiency.",
             "• Employed object-oriented programming principles for a clear and maintainable codebase, and conducted comprehensive testing to ensure reliability."
@@ -24,7 +24,7 @@
         "heading": "Cuckoo Hashing",
         "tech": "Data Structures, python",
         "date": "Jan 2024 to Feb 2024",
-        "ghlink": "https://github.com/gauravghati/cuckoo-hashing",
+        "ghlink": "https://github.com/gghati/cuckoo-hashing",
         "description": [
             "• Implemented Cuckoo Hashing algorithm, enhancing key-value pair storage with efficient collision handling.",
             "• Designed and optimized Cuckoo Hashing scheme for high-performance data retrieval.",
@@ -66,7 +66,7 @@
         "heading": "Technology Assisted Review",
         "tech": "Deep Learning (Natural Language Processing) And Website in (Django, ReactJS)",
         "date": "Aug 2021 to May 2022",
-        "ghlink": "https://github.com/gauravghati/veridical/tree/main/PICT-2022-TAR-2.0",
+        "ghlink": "https://github.com/gghati/veridical/tree/main/PICT-2022-TAR-2.0",
         "description": [
             "• Sponsored and guided by Veritas Technologies LLC.",
             "• Devised an NLP text classification model based on LSTM and Google’s LLM - BERT for auto-matching relevant documents. Used rehearsal techniques for effective training, preventing memory loss issues while training model.",
@@ -78,7 +78,7 @@
         "heading": "Hospital Management System",
         "tech": "Software Development (Java Swing and MySQL)",
         "date": "Dec 2020 to Jan 2021",
-        "ghlink": "https://github.com/gauravghati/Hospital-Management-System",
+        "ghlink": "https://github.com/gghati/Hospital-Management-System",
         "description": [
             "• A desktop application for Hospital management using Java Swing and MySQL database.",
             "• Includes features like managing doctors, staff members and covid patients, creating appointments, sending reports on video calling etc."
@@ -98,7 +98,7 @@
         "heading": "Question Portal",
         "tech": "Web development (Node JS, Express.js and MongoDB)",
         "date": "Jun 2020 to Jul 2020",
-        "ghlink": "https://github.com/gauravghati/Question-Portal",
+        "ghlink": "https://github.com/gghati/Question-Portal",
         "description" : [
             "• Website for accepting the competitive programming questions, which we used in creating the question dataset of the competitive coding events (conducted by PISB)"
         ]
