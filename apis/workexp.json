@@ -15,6 +15,18 @@
 
     "internships" : [
         {
+            "date": "June 2024 to Sep 2024",
+            "company": "Amazon Web Services (Redshift team)",
+            "post": "Software Development Engineer Intern",
+            "location": "East Palo Alto, California, United States",
+            "description": [
+                "• Developed a Redshift Self Usage Dashboard to display active and idle Redshift clusters cost usage for all internal Redshift teams, saving approx $650,000/month of operational expenditure costs in the us-east-1 region.",
+                "• Utilized AWS Lambda, CloudFormation, and DynamoDB to create a scalable, serverless architecture for multi-region deployments and efficient data storage.",
+                "• Enhanced performance by implementing parallel processing that can handle 18,000+ clusters and caching to mitigate APIs throttling limit, optimizing overall execution time of Lambdas.",
+                "• Managed cross-account access with IAM roles, securing permissions and accessing only the minimum required resources across multiple AWS accounts."
+            ]
+        },
+        {
             "date": "Aug 2021 to May 2022",
             "company": "Veritas Technologies LLC",
             "post": "Research Project Intern",
